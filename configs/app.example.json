@@ -1,16 +1,16 @@
 {
   "bot": {
-    "name": "Xayah",
-    "token": "NTY5MjQ2MDQzOTcyMTczODM0.XLt2GA.rFZspWrpMnj3o7VQx3uMTYC8fvc",
+    "name": "Ansel v.1",
+    "token": "NTUxMzM4NTI2OTUyOTE0OTUz.XL85uw.6-SFb5ztG8LI_LQ4OmqxpMn3UBg",
     "owners": [
-      "discord-id-here"
+      "402367348364935169"
     ],
     "delete_cmd_messages": true,
-    "default_cmd_prefix": ".",
-    "activity_text": "use .help command"
+    "default_cmd_prefix": "R",
+    "activity_text": "Rplay"
   },
   "youtube": {
-    "token": "",
+    "token": "AIzaSyDtnhiJiY9vZk-5rGwSDnGY8LyiaNfQRWs",
     "base_url": "https://www.youtube.com"
   }
 }
